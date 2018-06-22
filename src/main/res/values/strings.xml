@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JakesGit Repos</string>
+
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="issue">issue</string>
+    <string name="language">language</string>
+    <string name="watchers">watchers</string>
+
+
+
+
+</resources>
